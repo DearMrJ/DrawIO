@@ -111,6 +111,9 @@
         <mxCell id="D7k15J_AgWlVciBTuU2Q-44" value="化验室收到邮件采样登记" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="620" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oIr3WfYxHfd5qVcNDy7y-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="536" y="268" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
